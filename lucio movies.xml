@@ -18,7 +18,14 @@
     <title>Mythology</title>
     <link>https://raw.githubusercontent.com/timeless69/lucio/master/lucio%20mythology.xml</link>
   </dir>
-
+ 
+ <dir>
+  <title>Hit List</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/Hit%20List.xml</link>
+<thumbnail>http://cdn.wonderfulengineering.com/wp-content/uploads/2013/11/robot-wallpaper-82.jpg</thumbnail>
+  </dir>
+  
+  
 <dir>
         <title>action thriller movies 2017</title>
         <tmdb>list/63866</tmdb>
@@ -112,20 +119,40 @@
         <fanart></fanart>
 </dir> 
 <dir>
-        <title></title>
-        <tmdb>list/</tmdb>
+        <title>Bible Movies</title>
+        <tmdb>list/64123</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
 <dir>
-        <title></title>
-        <tmdb>list/</tmdb>
+        <title>Quentin Tarantino Movies</title>
+        <tmdb>list/64122</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
+
+</dir> 
+
 <dir>
-        <title></title>
-        <tmdb>list/</tmdb>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</dir> 
+<title>Taraji p Henson/Gabrielle Union</title>
+<tmdb>list/https://www.themoviedb.org/list/49301</tmdb>
+<thumbnail>https://orig00.deviantart.net/cd82/f/2017/219/c/b/mei__overwatch__by_will2link-daakl1c.jpg</thumbnail>
+</dir>
+
+<dir><dir>
+<title>Sanaa Lathan/ Halle Berry</title>
+<tmdb>list/https://www.themoviedb.org/list/51392</tmdb>
+<thumbnail>https://i.pinimg.com/originals/55/bf/92/55bf92cc6b362edb0325e2eac46e5e1b.jpg</thumbnail>
+</dir>
+
+<dir><dir>
+<title>Caeron Diaz</title>
+<tmdb>list/https://www.themoviedb.org/list/63159</tmdb>
+<thumbnail>https://img00.deviantart.net/724f/i/2016/199/e/e/overwatch_mei_by_lutherniel-daafcqh.png</thumbnail>
+</dir>
+
+<dir>
+<title>Jennifer Aniston/Sandra Bullock</title>
+<tmdb>list/https://www.themoviedb.org/list/49262</tmdb>
+<thumbnail>https://i.pinimg.com/originals/58/a3/a4/58a3a43d580180f4245dc8a05cb60202.jpg</thumbnail>
+</dir>
