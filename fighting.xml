@@ -16,4 +16,17 @@
   <title>Sword Movies</title>
   <tmdb>list/62306</tmdb>
 </dir>
+  <dir>
+  <title>Kung fu Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/lucio/master/eod%20kung%20fu.xml</link>
+</dir>
  
+ <dir>
+  <title>Kung fu 2 Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/lucio/master/kung%20fu%202.xml</link>
+</dir>
+  
+  <dir>
+    <title>Kung fu 3 Movies</title>
+    <link>https://raw.githubusercontent.com/timeless69/lucio/master/kung%20fu%203.xml</link>
+  </dir>

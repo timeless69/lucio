@@ -3,7 +3,17 @@
       <title>TMDB Now Playing</title>
       <tmdb>movies/now_playing</tmdb>
 </dir>
-  
+  <dir>
+  <title>Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/lucio/master/lucio%20movies.xml</link>
+</dir>
+
+ 
+ <dir>
+  <title>TV</title>
+  <link>https://raw.githubusercontent.com/timeless69/lucio/master/lucio%20tv.xml</link>
+</dir>
+   
   <dir>
   <title>Search Add On</title>
   <trakt>search</trakt>
