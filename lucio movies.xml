@@ -1,4 +1,9 @@
  <dir>
+  <title>One play Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/lucio/master/1%20play.xml</link>
+</dir>
+
+ <dir>
   <title>Fighting Movies</title>
   <link>https://raw.githubusercontent.com/timeless69/lucio/master/fighting.xml</link>
 </dir>
@@ -101,8 +106,8 @@
         <fanart></fanart>
 </dir> 
 <dir>
-        <title></title>
-        <tmdb>list/</tmdb>
+        <title>Action</title>
+        <tmdb>list/63885</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
