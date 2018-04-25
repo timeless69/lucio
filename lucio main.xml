@@ -1,0 +1,26 @@
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  
+  <dir>
+  <title>Search Add On</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+
+</xml><plugin>
+<name>settings</name>
+<link>plugin://plugin.video.Trapper/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>search</name>
+<link>plugin://plugin.video.Trapper/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
