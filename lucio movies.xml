@@ -123,13 +123,74 @@
         <tmdb>list/64123</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
-</dir> 
+</dir>
+ 
+<item>
+<title>President Movies</title>
+<link>list/64267</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Conspiracy</title>
+<link>list/64264</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>icu Her Picks</title>
+<link>list/51606</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Drama/Action/Thriller</title>
+<link>list/51603</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
 <dir>
         <title>Quentin Tarantino Movies</title>
         <tmdb>list/64122</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
+
+<item>
+<title>Steven Spielberg</title>
+<link>list/64185</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Spike Lee</title>
+<link>list/64230</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Stephen King</title>
+<link>list/64163</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Clint Eastwood</title>
+<link>list/64196</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zoe Saldana</title>
+<link>list/64186</link>
+<thumbnail></thumbnail>
+</item>
 
 </dir> 
 

@@ -11,6 +11,20 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
+
+<dir>
+        <title>Eod Tv</title>
+        <tmdb>list/51236</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>eod tv shows </title>
+        <tmdb>list/51238</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
 <dir>
   <title>Netflix Shows</title>
   <tmdb>network/shows/213</tmdb>
