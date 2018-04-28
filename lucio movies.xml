@@ -124,36 +124,37 @@
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir>
- 
-<item>
-<title>President Movies</title>
-<link>list/64267</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>Conspiracy</title>
-<link>list/64264</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>icu Her Picks</title>
-<link>list/51606</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Drama/Action/Thriller</title>
-<link>list/51603</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-</item>
+<dir>
+        <title>Drama/Action/Thriller</title>
+        <tmdb>list/51603</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>icu Her Picks</title>
+        <tmdb>list/51606</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Conspiracy</title>
+        <tmdb>list/64264</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>President Movies</title>
+        <tmdb>list/64267</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title></title>
+        <tmdb>list/</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
 
 <dir>
         <title>Quentin Tarantino Movies</title>
@@ -162,36 +163,35 @@
         <fanart></fanart>
 </dir> 
 
-<item>
-<title>Steven Spielberg</title>
-<link>list/64185</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Spike Lee</title>
-<link>list/64230</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Stephen King</title>
-<link>list/64163</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Clint Eastwood</title>
-<link>list/64196</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zoe Saldana</title>
-<link>list/64186</link>
-<thumbnail></thumbnail>
-</item>
-
+<dir>
+        <title>Zoe Saldana</title>
+        <tmdb>list/64186</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Clint Eastwood</title>
+        <tmdb>list/64196</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Stephen King</title>
+        <tmdb>list/64163</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Spike Lee</title>
+        <tmdb>list/64230</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Steven Spielberg</title>
+        <tmdb>list/64185</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
 </dir> 
 
 <dir>
