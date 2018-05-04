@@ -150,8 +150,8 @@
         <fanart></fanart>
 </dir> 
 <dir>
-        <title></title>
-        <tmdb>list/</tmdb>
+        <title>Bible </title>
+        <tmdb>list/64123</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
@@ -216,4 +216,64 @@
 <title>Jennifer Aniston/Sandra Bullock</title>
 <tmdb>list/https://www.themoviedb.org/list/49262</tmdb>
 <thumbnail>https://i.pinimg.com/originals/58/a3/a4/58a3a43d580180f4245dc8a05cb60202.jpg</thumbnail>
+</dir>
+
+<dir><dir>
+<title>Scott Adkins/Jean-Claude Van Damme</title>
+<tmdb>list/50288</tmdb>
+</dir>
+
+<dir><dir>
+<title>Kellan Lutz</title>
+<tmdb>list/50289</tmdb>
+</dir>
+
+<dir><dir>
+<title>Laurence Fishburne</title>
+<tmdb>list/64615</tmdb>
+</dir>
+
+<dir><dir>
+<title>Larenz Tate/Terrence Howard</title>
+<tmdb>list/64611</tmdb>
+</dir>
+
+<dir><dir>
+<title>Ryan Reynolds</title>
+<tmdb>list/64424</tmdb>
+</dir>
+
+<dir><dir>
+<title>Mo'Nique</title>
+<tmdb>list/64373</tmdb>
+</dir>
+
+<dir><dir>
+<title>special forces movies</title>
+<tmdb>list/64708</tmdb>
+</dir>
+
+<dir><dir>
+<title>lawyer and court </title>
+<tmdb>list/64621</tmdb>
+</dir>
+
+<dir><dir>
+<title></title>
+<tmdb>list/</tmdb>
+</dir>
+
+<dir><dir>
+<title></title>
+<tmdb>list/</tmdb>
+</dir>
+
+<dir><dir>
+<title></title>
+<tmdb>list/</tmdb>
+</dir>
+
+<dir><dir>
+<title></title>
+<tmdb>list/</tmdb>
 </dir>
