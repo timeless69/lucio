@@ -1,6 +1,6 @@
 <dir>
    <title>Movies</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20movies.xml</link>
+   <link>https://raw.githubusercontent.com/timeless69/wolf/master/t%20movies.xml</link>
 </dir>
 
 <dir>
@@ -9,7 +9,7 @@
 </dir>
 <dir>
    <title>Music</title>
-   <link>https://raw.githubusercontent.com/doomfist2/wolf/master/w%20mic.xml</link>
+   <link>https://raw.githubusercontent.com/timeless69/wolf/master/w%20mic.xml</link>
 </dir>
 
 <dir>
@@ -19,19 +19,19 @@
 
 <dir>
    <title>Productions and Directors.xml</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Productions%20and%20Directors.xml</link>
+   <link>https://raw.githubusercontent.com/timeless69/wolf/master/Productions%20and%20Directors.xml</link>
 </dir>
 
   <dir>
     <title>Movies 247</title>
-    <link>https://raw.githubusercontent.com/timeless69/power/master/movies247.xml</link>
+    <link>https://raw.githubusercontent.com/timeless69/wolf/master/movies247.xml</link>
   </dir>
 </xml>
 
 <xml>
   <dir>
     <title>247 TV</title>
-    <link>https://raw.githubusercontent.com/doomfist2/wolf/master/247-tv%20(1).xml</link>
+    <link>https://raw.githubusercontent.com/timeless69/wolf/master/247-tv%20(1).xml</link>
   </dir>
 </xml>
 
