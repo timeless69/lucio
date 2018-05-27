@@ -1,36 +1,52 @@
-
 <dir>
-      <title>TMDB Now Playing</title>
-      <tmdb>movies/now_playing</tmdb>
-</dir>
-  <dir>
-  <title>Movies</title>
-  <link>https://raw.githubusercontent.com/timeless69/lucio/master/lucio%20movies.xml</link>
-</dir>
-
- 
- <dir>
-  <title>TV</title>
-  <link>https://raw.githubusercontent.com/timeless69/lucio/master/lucio%20tv.xml</link>
-</dir>
-   
-  <dir>
-  <title>Search Add On</title>
-  <trakt>search</trakt>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20movies.xml</link>
 </dir>
 
 <dir>
-<title>Search Internet Movies</title>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20tv.xml</link>
+</dir>
+<dir>
+   <title>Music</title>
+   <link>https://raw.githubusercontent.com/doomfist2/wolf/master/w%20mic.xml</link>
+</dir>
+
+<dir>
+   <title>Movies boxset</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/myboxset.xml</link>
+</dir>
+
+<dir>
+   <title>Productions and Directors.xml</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Productions%20and%20Directors.xml</link>
+</dir>
+
+  <dir>
+    <title>Movies 247</title>
+    <link>https://raw.githubusercontent.com/timeless69/power/master/movies247.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>247 TV</title>
+    <link>https://raw.githubusercontent.com/doomfist2/wolf/master/247-tv%20(1).xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>Upcoming Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/51107</tmdb>
+</dir>
+
+<dir>
+<title>Search</title>
 <tmdb>search</tmdb>
-
-</xml><plugin>
-<name>settings</name>
-<link>plugin://plugin.video.Trapper/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
+</dir>
 
 <plugin>
-<name>search</name>
-<link>plugin://plugin.video.Trapper/?action=search</link>
+<name>Settings</name>
+<link>plugin://plugin.video.wolf?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
